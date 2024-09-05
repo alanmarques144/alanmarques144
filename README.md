@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/alanmarques144">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanmarques144&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanmarques144&show_icons=true&theme=dark&custom_title=Meus%20Stats%20do%20Github&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmarques144&layout=compact&langs_count=10&theme=dark&custom_title=Linguagens%20Mais%20Usadas"/>
 </div>
 <div style="display: inline_block"><br>
