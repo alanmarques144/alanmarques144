@@ -1,6 +1,6 @@
 - 👋 Oi, Eu sou o @alanmarques144
 - 👀 Eu gosto de linguagens de programação e desenvolvimento de software
-- 🌱 Eu estou aprendendo atualmente python
+- 🌱 Eu estou aprendendo atualmente AWS
 - 🆙 Estou sempre buscando desenvolver minhas habilidades
 
 <div align="center">
